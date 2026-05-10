@@ -28,25 +28,6 @@ A premium, fully responsive restaurant website for **Qichen Restaurant** featuri
 - **Online Booking** - Table reservation system
 - **Menu Kit** - Downloadable menu section
 
-### 🎨 Design Features
-- ✅ Modern & premium design
-- ✅ Fully responsive (mobile, tablet, desktop)
-- ✅ Smooth animations and transitions
-- ✅ Gradient text effects
-- ✅ Custom scrollbar
-- ✅ Glassmorphism effects
-- ✅ Clean and clear typography
-
-### 🔧 Functionality
-- ✅ Auto-playing image slider
-- ✅ Category-based menu filtering
-- ✅ Gallery filtering by category
-- ✅ Lightbox for images
-- ✅ Form submissions with validation
-- ✅ Newsletter subscription
-- ✅ Google Maps integration
-- ✅ Social media links
-- ✅ Smooth scroll navigation
 
 ## 🛠️ Technologies Used
 
